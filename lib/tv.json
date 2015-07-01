@@ -6,7 +6,7 @@
   },
 {
   "show": "teen wolf",
-  "id": "487",
+  "id": "false",
   "slug": "teen-wolf-2011"
 },
 {
@@ -16,7 +16,7 @@
 },
 {
    "show": "power", 
-   "id": "1047",
+   "id": "false",
    "slug": "power-2014"
    },
 {
@@ -51,7 +51,7 @@
 },
 {
    "show": "nashville",
-   "id": "724",
+   "id": "false",
    "slug": "nashville-2012"
 },
 {
@@ -1371,7 +1371,7 @@
   },
   {
     "show": "Conan",
-    "id": "432",
+    "id": "false",
     "slug": "conan"
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "show": "Daily Show, The",
-    "id": "67",
+    "id": "false",
     "slug": "the-daily-show"
   },
   {
@@ -1598,11 +1598,6 @@
     "show": "Dark Blue",
     "id": "313",
     "slug": "dark-blue"
-  },
-  {
-    "show": "Dark Matter",
-    "id": "1275",
-    "slug": "dark-matter"
   },
   {
     "show": "David Attenborough's Conquest Of The Skies",
@@ -2976,7 +2971,7 @@
   },
   {
     "show": "Jay Leno, The Tonight Show with",
-    "id": "273",
+    "id": "false",
     "slug": "the-tonight-show-with-jay-leno"
   },
   {
@@ -3006,12 +3001,12 @@
   },
   {
     "show": "Jimmy Fallon, The Tonight Show Starring",
-    "id": "983",
+    "id": "false",
     "slug": "the-tonight-show-starring-jimmy-fallon"
   },
   {
     "show": "Jimmy Kimmel Live!",
-    "id": "930",
+    "id": "false",
     "slug": "jimmy-kimmel-live"
   },
   {
@@ -3083,11 +3078,6 @@
     "show": "Killing, The",
     "id": "479",
     "slug": "the-killing"
-  },
-  {
-    "show": "Killjoys",
-    "id": "1281",
-    "slug": "killjoys"
   },
   {
     "show": "King & Maxwell",
@@ -3241,12 +3231,12 @@
   },
   {
     "show": "Last Week Tonight with John Oliver",
-    "id": "1025",
+    "id": "false",
     "slug": "last-week-tonight-with-john-oliver"
   },
   {
     "show": "Late Night with Conan O'Brien",
-    "id": "153",
+    "id": "false",
     "slug": "faulty"
   },
   {
@@ -3633,11 +3623,6 @@
     "show": "Marvel's Agents of S.H.I.E.L.D.",
     "id": "878",
     "slug": "marvel-s-agents-of-s-h-i-e-l-d"
-  },
-  {
-    "show": "Marvel's Daredevil",
-    "id": "1215",
-    "slug": "marvels-daredevil"
   },
   {
     "show": "MasterChef (US)",
@@ -4255,11 +4240,6 @@
     "slug": "onion-news-network"
   },
   {
-    "show": "Orange Is The New Black",
-    "id": "865",
-    "slug": "orange-is-the-new-black"
-  },
-  {
     "show": "Originals, The",
     "id": "908",
     "slug": "the-originals"
@@ -4533,11 +4513,6 @@
     "show": "Portlandia",
     "id": "453",
     "slug": "portlandia"
-  },
-  {
-    "show": "Power (2014)",
-    "id": "1047",
-    "slug": "power"
   },
   {
     "show": "Pretty Little Liars",
@@ -5533,11 +5508,6 @@
     "show": "Taxi Brooklyn (US)",
     "id": "1057",
     "slug": "taxi-brooklyn-us"
-  },
-  {
-    "show": "Teen Wolf",
-    "id": "487",
-    "slug": "teen-wolf-2011"
   },
   {
     "show": "Terminator: The Sarah Connor Chronicles",
