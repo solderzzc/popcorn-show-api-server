@@ -4,6 +4,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "body-parser": "^1.2.0",
+    "kat-api": "git+https://git.popcorntime.io/popcorntime/kat-api.git",
     "cheerio": "^0.16.0",
     "compression": "^1.0.2",
     "cron": "^1.0.4",
