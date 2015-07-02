@@ -1,11 +1,16 @@
 [
   {
+    "show": "The Daily Show",
+    "id": "67",
+    "slug": "the-daily-show-with-jon-stewart"
+  },
+  {
     "show": "10 O'Clock Live",
     "id": "449",
     "slug": "10-o-clock-livefaulty"
   },
-    {
-    "show": "The interceptor",
+  {
+    "show": "interceptor",
     "id": "false",
     "slug": "the-interceptor"
   },
@@ -406,7 +411,7 @@
   },
   {
     "show": "Another Period",
-    "id": "1276",
+    "id": "false",
     "slug": "another-period"
   },
   {
@@ -1376,8 +1381,8 @@
   },
   {
     "show": "Conan",
-    "id": "false",
-    "slug": "conan"
+    "id": "131517",
+    "slug": "conan-2010"
   },
   {
     "show": "Constantine",
@@ -1563,11 +1568,6 @@
     "show": "Dads (2013)",
     "id": "884",
     "slug": "dads-2013"
-  },
-  {
-    "show": "Daily Show, The",
-    "id": "false",
-    "slug": "the-daily-show"
   },
   {
     "show": "Dallas (2012)",
