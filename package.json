@@ -12,9 +12,10 @@
     "lodash": "^3.7.0",
     "moment": "^2.6.0",
     "mongoose": "^3.8.10",
+    "q": "^2.0.0",
     "request": "^2.36.0",
     "response-time": "^1.0.0",
-    "trakt": "git+https://github.com/popcorn-official/node-trakt"
+    "trakt-api": "*"
   },
   "engines": {
     "node": ">=0.10.x",
