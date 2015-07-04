@@ -37,7 +37,7 @@ module.exports = {
       if (!data.order) 
       	data.order = -1;
       	
-      var sort = {"rating.votes":  data.order, "rating.percentage":  data.order}
+      var sort = {"rating.votes":  data.order, "rating.percentage":  data.order, "rating.watching": data.order}
       // filter elements
 
       if (data.keywords) {
