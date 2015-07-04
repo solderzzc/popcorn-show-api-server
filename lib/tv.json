@@ -1,8 +1,34 @@
 [
+ {
+    "show": "alone",
+    "id": null,
+    "slug": "alone"
+  },
+  {
+    "show": "Zoo s",
+    "id": null,
+    "slug": "zoo"
+  },
+  {
+    "show": "Pretty Little Liars",
+    "id": "372",
+    "slug": "pretty-little-liars"
+  },
+  {
+    "show": "Mr Robot",
+    "id": null,
+    "slug": "mr-robot"
+  },
+
+  {
+    "show": "Under the Dome",
+    "id": null,
+    "slug": "under-the-dome"
+  },
   {
     "show": "The Daily Show",
     "id": "67",
-    "slug": "the-daily-show-with-jon-stewart"
+    "slug": "the-daily-show"
   },
   {
     "show": "10 O'Clock Live",
@@ -11,97 +37,97 @@
   },
   {
     "show": "interceptor",
-    "id": "false",
+    "id": null,
     "slug": "the-interceptor"
   },
 {
   "show": "teen wolf",
-  "id": "false",
+  "id": "487",
   "slug": "teen-wolf-2011"
 },
 {
    "show": "ballers",
-   "id": "false",
+   "id": null,
    "slug": "ballers"
 },
 {
    "show": "power", 
-   "id": "false",
+   "id": null,
    "slug": "power-2014"
    },
 {
    "show": "the brink",
-   "id": "false",
+   "id": null,
    "slug": "the-brink"
 },
 {
    "show": "killjoys",
-   "id": "false",
+   "id": null,
    "slug": "killjoys"
 },
 {
    "show": "dark matter",
-   "id": "false",
+   "id": null,
    "slug": "dark-matter"
 },
 {
    "show": "orange is the new black",
-   "id": "false",
+   "id": null,
    "slug": "orange-is-the-new-black"
 },
 {
    "show": "sense8",
-   "id": "false",
+   "id": null,
    "slug": "sense8"
 },
 {
    "show": "shark tank",
-   "id": "false",
+   "id": null,
    "slug": "shark-tank"
 },
 {
    "show": "nashville",
-   "id": "false",
+   "id": "724",
    "slug": "nashville-2012"
 },
 {
    "show": "the comedians",
-   "id": "false",
+   "id": null,
    "slug": "the-comedians-2015"
 },
 {
    "show": "wayward pines",
-   "id": "false",
+   "id": null,
    "slug": "wayward-pines"
 },
 {
    "show": "daredevil",
-   "id": "false",
+   "id": null,
    "slug": "marvel-s-daredevil"
 },
 {
    "show": "Wentworth",
-   "id": "false",
+   "id": null,
    "slug": "Wentworth"
 },
 {
    "show": "The Messengers",
-   "id": "false",
+   "id": null,
    "slug": "the-messengers"
 },
 {
    "show": "code killer",
-   "id": "false",
+   "id": null,
    "slug": "code-of-a-killer-2015"
 },
 {
    "show": "Marvels Agents",
-   "id": "false",
+   "id": null,
    "slug": "marvel-s-agents-of-s-h-i-e-l-d"
 },
 {
    "show": "the bible continues",
-   "id": "false",
+   "id": null,
    "slug": "a-d-the-bible-continues-2015"
 },
   {
@@ -411,7 +437,7 @@
   },
   {
     "show": "Another Period",
-    "id": "false",
+    "id": null,
     "slug": "another-period"
   },
   {
@@ -2976,7 +3002,7 @@
   },
   {
     "show": "Jay Leno, The Tonight Show with",
-    "id": "false",
+    "id": null,
     "slug": "the-tonight-show-with-jay-leno"
   },
   {
@@ -3006,12 +3032,12 @@
   },
   {
     "show": "Jimmy Fallon, The Tonight Show Starring",
-    "id": "false",
+    "id": null,
     "slug": "the-tonight-show-starring-jimmy-fallon"
   },
   {
     "show": "Jimmy Kimmel Live!",
-    "id": "false",
+    "id": null,
     "slug": "jimmy-kimmel-live"
   },
   {
@@ -3236,12 +3262,12 @@
   },
   {
     "show": "Last Week Tonight with John Oliver",
-    "id": "false",
+    "id": null,
     "slug": "last-week-tonight-with-john-oliver"
   },
   {
     "show": "Late Night with Conan O'Brien",
-    "id": "false",
+    "id": null,
     "slug": "faulty"
   },
   {
@@ -3792,12 +3818,12 @@
   {
     "show": "Mistresses (UK)",
     "id": "182",
-    "slug": "mistresses"
+    "slug": "mistresses-2008"
   },
   {
     "show": "Mistresses (US)",
     "id": "851",
-    "slug": "mistresses-us"
+    "slug": "mistresses"
   },
   {
     "show": "Mixology",
@@ -4518,11 +4544,6 @@
     "show": "Portlandia",
     "id": "453",
     "slug": "portlandia"
-  },
-  {
-    "show": "Pretty Little Liars",
-    "id": "372",
-    "slug": "pretty-little-liars"
   },
   {
     "show": "Prey (UK)",
@@ -5805,11 +5826,6 @@
     "slug": "undateable"
   },
   {
-    "show": "Under the Dome",
-    "id": "859",
-    "slug": "under-the-dome"
-  },
-  {
     "show": "Underbelly",
     "id": "285",
     "slug": "underbelly"
@@ -6248,10 +6264,6 @@
     "show": "Zero Hour (US)",
     "id": "786",
     "slug": "zero-hour-2013"
-  },
-  {
-    "show": "Zoo",
-    "id": "1289",
-    "slug": "zoo"
   }
 ]
+
