@@ -28,7 +28,7 @@
   {
     "show": "10 O'Clock Live",
     "id": "449",
-    "slug": "10-o-clock-livefaulty"
+    "slug": "10-o-clock-live"
   },
   {
     "show": "interceptor",
@@ -128,10 +128,10 @@
   {
     "show": "10 Things I Hate About You",
     "id": "308",
-    "slug": "10-things-i-hfaulty2"
+    "slug": "10-things-i-hate-about-you"
   },
   {
-    "show": "100, The",
+    "show": "The 100",
     "id": "1000",
     "slug": "the-100"
   },
@@ -196,7 +196,7 @@
     "slug": "7-deadly-sins"
   },
   {
-    "show": "7.39, The",
+    "show": "The 7.39",
     "id": "952",
     "slug": "th22e-739"
   },
@@ -271,12 +271,12 @@
     "slug": "adventure-time-2010"
   },
   {
-    "show": "Affair, The",
+    "show": "The Affair",
     "id": "1130",
     "slug": "the-affair"
   },
   {
-    "show": "After, The",
+    "show": "The After",
     "id": "1003",
     "slug": "the-after"
   },
@@ -336,7 +336,7 @@
     "slug": "alphas"
   },
   {
-    "show": "Amazing Race, The",
+    "show": "The Amazing Race",
     "id": "5",
     "slug": "the-amazing-race-2001"
   },
@@ -378,7 +378,7 @@
   {
     "show": "American Idol",
     "id": "9",
-    "slug": "faulty200"
+    "slug": "american-idol"
   },
   {
     "show": "American Odyssey",
@@ -386,7 +386,7 @@
     "slug": "american-odyssey"
   },
   {
-    "show": "Americans (2013), The",
+    "show": "The Americans",
     "id": "780",
     "slug": "the-americans-2013"
   },
@@ -446,12 +446,12 @@
     "slug": "apparitions"
   },
   {
-    "show": "Apprentice (UK), The",
+    "show": "The Apprentice",
     "id": "14",
-    "slug": "the-apprentice"
+    "slug": "the-apprentice UK"
   },
   {
-    "show": "Apprentice (US), The",
+    "show": "The Apprentice US",
     "id": "15",
     "slug": "the-apprentice-2004"
   },
@@ -501,7 +501,7 @@
     "slug": "arrow"
   },
   {
-    "show": "Arsenio Hall Show, The",
+    "show": "The Arsenio Hall Show",
     "id": "932",
     "slug": "the-arsenio-hall-show"
   },
@@ -521,7 +521,7 @@
     "slug": "ashes-to-ashes"
   },
   {
-    "show": "Assets, The",
+    "show": "The Assets",
     "id": "946",
     "slug": "the-assets"
   },
@@ -561,7 +561,7 @@
     "slug": "babylon"
   },
   {
-    "show": "Bachelor, The",
+    "show": "The Bachelor",
     "id": "17",
     "slug": "the-bachelor"
   },
@@ -646,17 +646,17 @@
     "slug": "battlestar-galactica"
   },
   {
-    "show": "Beast, The",
+    "show": "The Beast",
     "id": "19",
     "slug": "the-beast"
   },
   {
-    "show": "Beautiful Life, The",
+    "show": "The Beautiful Life",
     "id": "316",
     "slug": "the-beautiful-life-tbl"
   },
   {
-    "show": "Beauty And The Beast (2012)",
+    "show": "Beauty And The Beast",
     "id": "725",
     "slug": "beauty-and-the-beast-2012"
   },
@@ -726,7 +726,7 @@
     "slug": "best-friends-forever"
   },
   {
-    "show": "Best Laid Plans, The",
+    "show": "The Best Laid Plans",
     "id": "965",
     "slug": "the-best-laid-plans"
   },
@@ -766,7 +766,7 @@
     "slug": "beyond-the-game"
   },
   {
-    "show": "Big Bang Theory, The",
+    "show": "The Big Bang Theory",
     "id": "23",
     "slug": "the-big-bang-theory"
   },
@@ -791,7 +791,7 @@
     "slug": "big-brothers-little-brother"
   },
   {
-    "show": "Big C, The",
+    "show": "The Big C",
     "id": "391",
     "slug": "the-big-c"
   },
@@ -876,7 +876,7 @@
     "slug": "black-ish"
   },
   {
-    "show": "Blacklist, The",
+    "show": "The Blacklist",
     "id": "887",
     "slug": "the-blacklist"
   },
@@ -891,14 +891,14 @@
     "slug": "blandings"
   },
   {
-    "show": "Bleak Old Shop of Stuff, The",
+    "show": "The Bleak Old Shop of Stuff",
     "id": "563",
     "slug": "the-bleak-old-shop-of-stuff"
   },
   {
-    "show": "Bletchley Circle, The",
+    "show": "The Bletchley Circle",
     "id": "978",
-    "slug": "faulty2"
+    "slug": "the-bletchley-circle"
   },
   {
     "show": "Bloodline",
@@ -916,7 +916,7 @@
     "slug": "blue-mountain-state"
   },
   {
-    "show": "Blue Rose, The",
+    "show": "The Blue Rose",
     "id": "791",
     "slug": "the-blue-rose"
   },
@@ -936,7 +936,7 @@
     "slug": "bob-s-burgers"
   },
   {
-    "show": "Body Farm, The",
+    "show": "Body Farm",
     "id": "532",
     "slug": "the-body-farm"
   },
@@ -971,12 +971,12 @@
     "slug": "boomers"
   },
   {
-    "show": "Boondocks, The",
+    "show": "Boondocks",
     "id": "366",
     "slug": "the-boondocks"
   },
   {
-    "show": "Border, The",
+    "show": "The Border",
     "id": "32",
     "slug": "the-border"
   },
@@ -986,7 +986,7 @@
     "slug": "bored-to-death"
   },
   {
-    "show": "Borgias, The",
+    "show": "The Borgias",
     "id": "474",
     "slug": "borgia"
   },
@@ -1051,7 +1051,7 @@
     "slug": "brickleberry"
   },
   {
-    "show": "Bridge (US), The",
+    "show": "The Bridge",
     "id": "869",
     "slug": "the-bridge-2013"
   },
@@ -1086,7 +1086,7 @@
     "slug": "brothers-and-sisters"
   },
   {
-    "show": "Bubble, The",
+    "show": "The Bubble",
     "id": "351",
     "slug": "the-bubble"
   },
@@ -1116,7 +1116,7 @@
     "slug": "californication"
   },
   {
-    "show": "Call Centre, The",
+    "show": "The Call Centre",
     "id": "861",
     "slug": "the-call-centre"
   },
@@ -1131,7 +1131,7 @@
     "slug": "camp"
   },
   {
-    "show": "Cape, The (2011)",
+    "show": "The Cape",
     "id": "442",
     "slug": "the-cape-2011"
   },
@@ -1146,7 +1146,7 @@
     "slug": "capture"
   },
   {
-    "show": "Carrie Diaries, The",
+    "show": "Carrie Diaries",
     "id": "759",
     "slug": "the-carrie-diaries"
   },
@@ -1156,7 +1156,7 @@
     "slug": "castle"
   },
   {
-    "show": "Casual Vacancy, The",
+    "show": "Casual Vacancy",
     "id": "1194",
     "slug": "the-casual-vacancy"
   },
@@ -1206,7 +1206,7 @@
     "slug": "chase-2010"
   },
   {
-    "show": "Chasers War on Everything, The",
+    "show": "Chasers War on Everything",
     "id": "45",
     "slug": "the-chasers-war-on-everything"
   },
@@ -1231,7 +1231,7 @@
     "slug": "cherry-healey-how-to-get-a-life"
   },
   {
-    "show": "Chicago Code, The",
+    "show": "Chicago Code",
     "id": "462",
     "slug": "the-chicago-code"
   },
@@ -1256,7 +1256,7 @@
     "slug": "childrens-hospital"
   },
   {
-    "show": "Chopping Block, The",
+    "show": "Chopping Block",
     "id": "47",
     "slug": "the-chopping-block"
   },
@@ -2608,7 +2608,7 @@
   {
     "show": "Heroes",
     "id": "116",
-    "slug": "faulty020qweqwe"
+    "slug": "heroes"
   },
   {
     "show": "Hiccups",
@@ -6246,4 +6246,3 @@
     "slug": "zero-hour-2013"
   }
 ]
-
