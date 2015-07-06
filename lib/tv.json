@@ -5,7 +5,7 @@
     "slug": "alone"
   },
   {
-    "show": "Zoo s",
+    "show": "Zoo",
     "id": null,
     "slug": "zoo"
   },
@@ -24,11 +24,6 @@
     "show": "Under the Dome",
     "id": null,
     "slug": "under-the-dome"
-  },
-  {
-    "show": "The Daily Show",
-    "id": "67",
-    "slug": "the-daily-show"
   },
   {
     "show": "10 O'Clock Live",
@@ -2021,7 +2016,7 @@
     "slug": "falcon"
   },
   {
-    "show": "Fall, The",
+    "show": "The Fall",
     "id": "842",
     "slug": "the-fall"
   },
@@ -2731,11 +2726,6 @@
     "slug": "the-hour-uk-2011"
   },
   {
-    "show": "House",
-    "id": "124",
-    "slug": "house"
-  },
-  {
     "show": "House of Cards (2013)",
     "id": "792",
     "slug": "house-of-cards"
@@ -3016,7 +3006,7 @@
     "slug": "jennifer-falls"
   },
   {
-    "show": "Jenny McCarthy Show (2013), The",
+    "show": "Jenny McCarthy Show",
     "id": "790",
     "slug": "the-jenny-mccarthy-show-2013"
   },
@@ -3026,22 +3016,12 @@
     "slug": "jim-jefferies"
   },
   {
-    "show": "Jimmy Fallon, Late Night with ",
-    "id": "929",
-    "slug": "late-night-with-jimmy-fallon"
-  },
-  {
-    "show": "Jimmy Fallon, The Tonight Show Starring",
-    "id": null,
-    "slug": "the-tonight-show-starring-jimmy-fallon"
-  },
-  {
     "show": "Jimmy Kimmel Live!",
     "id": null,
     "slug": "jimmy-kimmel-live"
   },
   {
-    "show": "Job (2013), The",
+    "show": "The Job",
     "id": "787",
     "slug": "the-job-2013"
   },
@@ -3061,7 +3041,7 @@
     "slug": "jonathan-creek"
   },
   {
-    "show": "Joy of Teen Sex, The",
+    "show": "The Joy of Teen Sex",
     "id": "450",
     "slug": "the-joy-of-teen-sex"
   },
@@ -3106,7 +3086,7 @@
     "slug": "killer-women"
   },
   {
-    "show": "Killing, The",
+    "show": "The Killing",
     "id": "479",
     "slug": "the-killing"
   },
@@ -3171,12 +3151,12 @@
     "slug": "klondike-2014"
   },
   {
-    "show": "Knick, The",
+    "show": "The Knick",
     "id": "1085",
     "slug": "the-knick"
   },
   {
-    "show": "Knight Rider (2008)",
+    "show": "Knight Rider",
     "id": "145",
     "slug": "knight-rider"
   },
@@ -3196,7 +3176,7 @@
     "slug": "kyle-xy"
   },
   {
-    "show": "L Word, The",
+    "show": "The L Word",
     "id": "148",
     "slug": "the-l-word"
   },
@@ -3206,7 +3186,7 @@
     "slug": "l5"
   },
   {
-    "show": "LA Complex, The",
+    "show": "The LA Complex",
     "id": "593",
     "slug": "the-la-complex"
   },
@@ -3226,7 +3206,7 @@
     "slug": "labyrinth-2013"
   },
   {
-    "show": "Lady Vanishes (2013), The",
+    "show": "The Lady Vanishes",
     "id": "811",
     "slug": "the-lady-vanishes-2013"
   },
@@ -3236,7 +3216,7 @@
     "slug": "last-comic-standing"
   },
   {
-    "show": "Last Man on Earth, The",
+    "show": "The Last Man on Earth",
     "id": "1200",
     "slug": "the-last-man-on-earth"
   },
@@ -3251,12 +3231,12 @@
     "slug": "last-resort-2012"
   },
   {
-    "show": "Last Ship, The",
+    "show": "The Last Ship",
     "id": "1055",
     "slug": "the-last-ship"
   },
   {
-    "show": "Last Templar, The",
+    "show": "The Last Templar",
     "id": "152",
     "slug": "the-last-templar"
   },
@@ -3296,12 +3276,12 @@
     "slug": "law-order-uk"
   },
   {
-    "show": "League, The",
+    "show": "The League",
     "id": "390",
     "slug": "the-league-2009"
   },
   {
-    "show": "Leftovers, The",
+    "show": "The Leftovers",
     "id": "1060",
     "slug": "the-leftovers"
   },
@@ -3341,7 +3321,7 @@
     "slug": "lewis-blacks-the-root-of-all-evil"
   },
   {
-    "show": "Librarians, The",
+    "show": "The Librarians",
     "id": "1150",
     "slug": "the-librarians-2014"
   },
@@ -3356,7 +3336,7 @@
     "slug": "life"
   },
   {
-    "show": "Life and Times of Tim, The",
+    "show": "Life and Times of Tim",
     "id": "163",
     "slug": "the-life-and-times-of-tim"
   },
@@ -3406,7 +3386,7 @@
     "slug": "line-of-duty"
   },
   {
-    "show": "Line, The",
+    "show": "The Line",
     "id": "166",
     "slug": "the-line"
   },
@@ -3421,7 +3401,7 @@
     "slug": "lipstick-jungle"
   },
   {
-    "show": "Listener, The",
+    "show": "The Listener",
     "id": "168",
     "slug": "the-listener"
   },
@@ -3471,7 +3451,7 @@
     "slug": "lost-girl"
   },
   {
-    "show": "Lottery, The",
+    "show": "The Lottery",
     "id": "1075",
     "slug": "the-lottery"
   },
@@ -3526,7 +3506,7 @@
     "slug": "luther"
   },
   {
-    "show": "Lying Game, The",
+    "show": "The Lying Game",
     "id": "509",
     "slug": "the-lying-game"
   },
@@ -3631,7 +3611,7 @@
     "slug": "maron"
   },
   {
-    "show": "Marriage Ref, The",
+    "show": "The Marriage Ref",
     "id": "360",
     "slug": "the-marriage-ref"
   },
@@ -3671,17 +3651,17 @@
     "slug": "matador-2014"
   },
   {
-    "show": "Maya Rudolph Show, The",
+    "show": "The Maya Rudolph Show",
     "id": "1035",
     "slug": "the-maya-rudolph-show"
   },
   {
-    "show": "Mayday (UK-2013)",
+    "show": "Mayday",
     "id": "802",
     "slug": "mayday-uk"
   },
   {
-    "show": "McCarthys, The",
+    "show": "The McCarthys",
     "id": "1141",
     "slug": "the-mccarthys"
   },
@@ -3701,7 +3681,7 @@
     "slug": "melrose-place"
   },
   {
-    "show": "Meltdown with Jonah and Kumail, The",
+    "show": "Meltdown with Jonah and Kumail",
     "id": "1076",
     "slug": "the-meltdown-with-jonah-and-kumail"
   },
@@ -3726,7 +3706,7 @@
     "slug": "mental"
   },
   {
-    "show": "Mentalist, The",
+    "show": "Mentalist",
     "id": "179",
     "slug": "the-mentalist"
   },
@@ -3741,17 +3721,17 @@
     "slug": "merlin"
   },
   {
-    "show": "Messengers, The",
+    "show": "The Messengers",
     "id": "1220",
     "slug": "the-messengers"
   },
   {
-    "show": "Michael J Fox Show, The ",
+    "show": "Michael J Fox Show ",
     "id": "894",
     "slug": "the-michael-j-fox-show"
   },
   {
-    "show": "Middle, The",
+    "show": "The Middle",
     "id": "328",
     "slug": "the-middle"
   },
@@ -3771,17 +3751,17 @@
     "slug": "mildred-pierce"
   },
   {
-    "show": "Mill, The",
+    "show": "The Mill",
     "id": "877",
     "slug": "the-mill"
   },
   {
-    "show": "Millers, The",
+    "show": "The Millers",
     "id": "909",
     "slug": "the-millers"
   },
   {
-    "show": "Mimic, The",
+    "show": "The Mimic",
     "id": "807",
     "slug": "the-mimic"
   },
@@ -3791,7 +3771,7 @@
     "slug": "mind-games"
   },
   {
-    "show": "Mindy Project, The",
+    "show": "Mindy Project",
     "id": "710",
     "slug": "the-mindy-project"
   },
@@ -3841,7 +3821,7 @@
     "slug": "mob-city"
   },
   {
-    "show": "Mob Doctor, The",
+    "show": "Mob Doctor",
     "id": "703",
     "slug": "the-mob-doctor"
   },
@@ -3861,7 +3841,7 @@
     "slug": "modern-family"
   },
   {
-    "show": "Mole (US), The",
+    "show": "The Mole",
     "id": "183",
     "slug": "the-mole"
   },
@@ -3966,12 +3946,12 @@
     "slug": "murder-joint-enterprise"
   },
   {
-    "show": "Murder Trial, The",
+    "show": "The Murder Trial",
     "id": "860",
     "slug": "the-murder-trial"
   },
   {
-    "show": "Musketeers, The",
+    "show": "The Musketeers",
     "id": "961",
     "slug": "the-musketeers"
   },
@@ -4006,12 +3986,12 @@
     "slug": "my-own-worst-enemy"
   },
   {
-    "show": "Mysteries of Laura, The",
+    "show": "Mysteries of Laura",
     "id": "1107",
     "slug": "the-mysteries-of-laura"
   },
   {
-    "show": "Mystery Of Edwin Drood, The",
+    "show": "Mystery Of Edwin Drood",
     "id": "608",
     "slug": "the-mystery-of-edwin-drood"
   },
@@ -4066,12 +4046,12 @@
     "slug": "necessary-roughness"
   },
   {
-    "show": "Neighbors, The (2012)",
+    "show": "The Neighbors",
     "id": "713",
     "slug": "the-neighbors-2012"
   },
   {
-    "show": "Nerdist, The",
+    "show": "THe Nerdist",
     "id": "813",
     "slug": "the-nerdist"
   },
@@ -4081,7 +4061,7 @@
     "slug": "never-mind-the-buzzcocks"
   },
   {
-    "show": "New Adventures Of Old Christine, The",
+    "show": "New Adventures Of Old Christine",
     "id": "195",
     "slug": "the-new-adventures-of-old-christine"
   },
@@ -4091,7 +4071,7 @@
     "slug": "new-girl"
   },
   {
-    "show": "New Normal, The",
+    "show": "The New Normal",
     "id": "701",
     "slug": "the-new-normal"
   },
@@ -4121,7 +4101,7 @@
     "slug": "newgameplus"
   },
   {
-    "show": "Newsroom (2012), The",
+    "show": "The Newsroom",
     "id": "668",
     "slug": "the-newsroom-2012"
   },
@@ -4141,12 +4121,12 @@
     "slug": "nick-swardsons-pretend-time"
   },
   {
-    "show": "Night Shift, The",
+    "show": "The Night Shift",
     "id": "1041",
     "slug": "the-night-shift"
   },
   {
-    "show": "Nightly Show with Larry Wilmore, The",
+    "show": "The Nightly Show with Larry Wilmore",
     "id": "1185",
     "slug": "the-nightly-show-with-larry-wilmore"
   },
@@ -4156,7 +4136,7 @@
     "slug": "nikita"
   },
   {
-    "show": "Nine Lives of Chloe King, The",
+    "show": "Nine Lives of Chloe King",
     "id": "498",
     "slug": "the-nine-lives-of-chloe-king"
   },
@@ -4166,7 +4146,7 @@
     "slug": "nip-tuck"
   },
   {
-    "show": "No 1 Ladies Detective Agency, The",
+    "show": "No 1 Ladies Detective Agency",
     "id": "199",
     "slug": "the-no-1-ladies-detective-agency"
   },
@@ -4181,7 +4161,7 @@
     "slug": "no-ordinary-family"
   },
   {
-    "show": "Normal Heart, The",
+    "show": "Normal Heart",
     "id": "1039",
     "slug": "the-normal-heart"
   },
@@ -4211,7 +4191,7 @@
     "slug": "nyc-22"
   },
   {
-    "show": "Odd Couple, The",
+    "show": "The Odd Couple",
     "id": "1179",
     "slug": "the-odd-couple-2015"
   },
@@ -4226,7 +4206,7 @@
     "slug": "off-the-map"
   },
   {
-    "show": "Office, The",
+    "show": "The Office",
     "id": "204",
     "slug": "the-office"
   },
@@ -4271,7 +4251,7 @@
     "slug": "onion-news-network"
   },
   {
-    "show": "Originals, The",
+    "show": "The Originals",
     "id": "908",
     "slug": "the-originals"
   },
@@ -4326,7 +4306,7 @@
     "slug": "over-under"
   },
   {
-    "show": "Pacific, The",
+    "show": "The Pacific",
     "id": "361",
     "slug": "the-pacific"
   },
@@ -4351,7 +4331,7 @@
     "slug": "pan-am"
   },
   {
-    "show": "Paper, The",
+    "show": "The Paper",
     "id": "206",
     "slug": "the-paper"
   },
@@ -4361,7 +4341,7 @@
     "slug": "parades-end"
   },
   {
-    "show": "Paradise, The",
+    "show": "The Paradise",
     "id": "723",
     "slug": "the-paradise"
   },
@@ -4416,7 +4396,7 @@
     "slug": "peep-show"
   },
   {
-    "show": "Penguins Of Madagascar, The",
+    "show": "Penguins Of Madagascar",
     "id": "210",
     "slug": "the-penguins-of-madagascar"
   },
@@ -4466,17 +4446,17 @@
     "slug": "petals-on-the-wind-2014"
   },
   {
-    "show": "Philanthropist, The",
+    "show": "Philanthropist",
     "id": "213",
     "slug": "the-philanthropist"
   },
   {
-    "show": "Pick up Artist, The",
+    "show": "Pick up Artist",
     "id": "214",
     "slug": "the-pick-up-artist"
   },
   {
-    "show": "Pillars of the Earth, The",
+    "show": "Pillars of the Earth",
     "id": "382",
     "slug": "the-pillars-of-the-earth"
   },
@@ -4491,7 +4471,7 @@
     "slug": "planet-earth-live"
   },
   {
-    "show": "Playboy Club, The",
+    "show": "Playboy Club",
     "id": "537",
     "slug": "the-playboy-club"
   },
@@ -4516,7 +4496,7 @@
     "slug": "plebs"
   },
   {
-    "show": "Poison Tree, The",
+    "show": "Poison Tree",
     "id": "752",
     "slug": "the-poison-tree"
   },
@@ -4536,7 +4516,7 @@
     "slug": "political-animals"
   },
   {
-    "show": "Politicians Husband, The",
+    "show": "Politicians Husband",
     "id": "832",
     "slug": "the-politicians-husband"
   },
@@ -4596,7 +4576,7 @@
     "slug": "proof"
   },
   {
-    "show": "Protector, The",
+    "show": "Protector",
     "id": "500",
     "slug": "the-protector"
   },
@@ -4716,7 +4696,7 @@
     "slug": "red-oaks"
   },
   {
-    "show": "Red Road, The",
+    "show": "Red Road",
     "id": "987",
     "slug": "the-red-road"
   },
@@ -4766,7 +4746,7 @@
     "slug": "retired-at-35"
   },
   {
-    "show": "Returned, The (US)",
+    "show": "The Returned",
     "id": "1202",
     "slug": "the-returned-us"
   },
@@ -4796,7 +4776,7 @@
     "slug": "rick-and-morty"
   },
   {
-    "show": "Ricky Gervais Show, The",
+    "show": "Ricky Gervais Show",
     "id": "355",
     "slug": "the-ricky-gervais-show"
   },
@@ -4821,7 +4801,7 @@
     "slug": "rita-rocks"
   },
   {
-    "show": "River, The",
+    "show": "River",
     "id": "580",
     "slug": "the-river"
   },
@@ -4861,7 +4841,7 @@
     "slug": "rosemarys-baby"
   },
   {
-    "show": "Royal Bodyguard, The",
+    "show": "Royal Bodyguard",
     "id": "569",
     "slug": "the-royal-bodyguard"
   },
@@ -4876,7 +4856,7 @@
     "slug": "royal-pains"
   },
   {
-    "show": "Royals, The",
+    "show": "The Royals",
     "id": "1209",
     "slug": "the-royals-2015"
   },
@@ -4956,12 +4936,12 @@
     "slug": "sanctuary"
   },
   {
-    "show": "Sarah Jane Adventures, The",
+    "show": "Sarah Jane Adventures",
     "id": "239",
     "slug": "the-sarah-jane-adventures"
   },
   {
-    "show": "Sarah Silverman Program, The",
+    "show": "Sarah Silverman Program",
     "id": "240",
     "slug": "the-sarah-silverman-program"
   },
@@ -5006,12 +4986,12 @@
     "slug": "schitt-s-creek"
   },
   {
-    "show": "Sci Fi Guys, The",
+    "show": "Sci Fi Guys",
     "id": "244",
     "slug": "the-sci-fi-guys"
   },
   {
-    "show": "Science Of Doctor Who (BBC) (2013), The",
+    "show": "Science Of Doctor Who",
     "id": "931",
     "slug": "the-science-of-doctor-who-bbc-2013"
   },
@@ -5051,7 +5031,7 @@
     "slug": "sean-saves-the-world"
   },
   {
-    "show": "Secret Circle, The",
+    "show": "Secret Circle",
     "id": "522",
     "slug": "the-secret-circle"
   },
@@ -5061,17 +5041,17 @@
     "slug": "secret-diary-of-a-call-girl"
   },
   {
-    "show": "Secret Life of the American Teenager, The",
+    "show": "Secret Life of the American Teenager",
     "id": "247",
     "slug": "the-secret-life-of-the-american-teenager"
   },
   {
-    "show": "Secret Of Crickley Hall, The",
+    "show": "Secret Of Crickley Hall",
     "id": "747",
     "slug": "the-secret-of-crickley-hall"
   },
   {
-    "show": "Secret Policemans Ball, The",
+    "show": "Secret Policemans Ball",
     "id": "601",
     "slug": "the-secret-policemans-ball"
   },
@@ -5081,7 +5061,7 @@
     "slug": "secrets-and-lies-us"
   },
   {
-    "show": "Secrets, The",
+    "show": "Secrets",
     "id": "1103",
     "slug": "the-secrets"
   },
@@ -5111,7 +5091,7 @@
     "slug": "late-night-with-seth-meyers"
   },
   {
-    "show": "Shadow Line, The",
+    "show": "Shadow Line",
     "id": "484",
     "slug": "the-shadow-line"
   },
@@ -5161,7 +5141,7 @@
     "slug": "silicon-valley"
   },
   {
-    "show": "Simpsons, The",
+    "show": "The Simpsons",
     "id": "249",
     "slug": "the-simpsons"
   },
@@ -5206,7 +5186,7 @@
     "slug": "skins-2011"
   },
   {
-    "show": "Slap (US), The",
+    "show": "The Slap",
     "id": "1207",
     "slug": "the-slap-us"
   },
@@ -5231,7 +5211,7 @@
     "slug": "smash"
   },
   {
-    "show": "Smoke, The",
+    "show": "The Smoke",
     "id": "986",
     "slug": "the-smoke"
   },
@@ -5266,7 +5246,7 @@
     "slug": "sophie"
   },
   {
-    "show": "Soul Man, The",
+    "show": "The Soul Man",
     "id": "666",
     "slug": "the-soul-man"
   },
@@ -5421,7 +5401,7 @@
     "slug": "the-story-of-musicals"
   },
   {
-    "show": "Strain, The",
+    "show": "The Strain",
     "id": "1067",
     "slug": "the-strain"
   },
@@ -5616,7 +5596,7 @@
     "slug": "togetherness-2015"
   },
   {
-    "show": "Tomorrow People (US), The",
+    "show": "The Tomorrow People",
     "id": "913",
     "slug": "the-tomorrow-people-2013"
   },
@@ -5716,7 +5696,7 @@
     "slug": "trial-and-retribution"
   },
   {
-    "show": "Trip, The",
+    "show": "Trip",
     "id": "1014",
     "slug": "the-trip"
   },
@@ -5761,7 +5741,7 @@
     "slug": "trust-me"
   },
   {
-    "show": "Tudors, The",
+    "show": "The Tudors",
     "id": "281",
     "slug": "the-tudors"
   },
