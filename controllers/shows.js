@@ -1,4 +1,4 @@
-var analytics = require('../lib/analytics');
+
 var Show = require('../models/Show');
 var config = require('../config.js');
 
@@ -14,7 +14,7 @@ module.exports = {
         docs.push("shows/"+i);
 
       res.json(docs);
-      analytics.track(req, analytics.Type.Show);
+      
     });
 	},
   getPage: function(req, res) {
@@ -26,7 +26,7 @@ module.exports = {
 
       Show.find({num_seasons: { $gt: 0 }}).sort({ title: -1 }).exec(function (err, docs) {
         res.json(docs);
-        analytics.track(req, analytics.Type.Show, 'all');
+       
       });  
 
     } else {
@@ -68,7 +68,7 @@ module.exports = {
       // paging
       Show.find(query,{ _id: 1, imdb_id: 1, tvdb_id:1, title:1, year:1, images:1, slug:1, num_seasons:1, last_updated:1, rating:1 }).sort(sort).skip(offset).limit(config.pageSize).exec(function (err, docs) {
         res.json(docs);
-        analytics.track(req, analytics.Type.Show, query);
+     
       });
 
     }
@@ -77,14 +77,14 @@ module.exports = {
     Show.find({imdb_id: req.params.id}).limit(1).exec(function (err, docs) {
         if(Array.isArray(docs)) docs = docs[0];
         res.json(docs);
-        analytics.track(req, analytics.Type.Show, {imdb_id: req.params.id});
+      
     });
   },
   search: function(req, res) {
     var keywords = new RegExp(RegExp.escape(req.params.search.toLowerCase()),"gi");
     Show.find({title: keywords,num_seasons: { $gt: 0 }}).sort({ title: -1 }).limit(config.pageSize).exec(function (err, docs) {
       res.json(docs);
-      analytics.track(req, analytics.Type.Show, keywords.toString());
+     
     });
   },
   searchPage: function(req, res) {
@@ -94,7 +94,7 @@ module.exports = {
 
     Show.find({title: keywords,num_seasons: { $gt: 0 }}).sort({ title: -1 }).skip(offset).limit(config.pageSize).exec(function (err, docs) {
       res.json(docs);
-      analytics.track(req, analytics.Type.Show, {keywords: keywords.toString(), page: page});
+   
     });
   },
   getSince: function(req, res) {
@@ -102,7 +102,7 @@ module.exports = {
     if(req.query.full) {
       Show.find({last_updated : {$gt: parseInt(since)},num_seasons: { $gt: 0 }}, function(err, docs) {
           res.json(docs);
-          analytics.track(req, analytics.Type.Show, {full: true, since: since});
+          
       });
     } else {
       Show.count({last_updated : {$gt: parseInt(since)},num_seasons: { $gt: 0 }}, function (err, count) {
@@ -114,7 +114,7 @@ module.exports = {
             docs.push("shows/update/" + since + "/" + i);
                  
         res.json(docs);
-        analytics.track(req, analytics.Type.Show, {full: false, since: since});
+       
       });
     }
   },
@@ -125,13 +125,13 @@ module.exports = {
 
     Show.find({last_updated : {$gt: parseInt(since)},num_seasons: { $gt: 0 }}).sort({ title: -1 }).skip(offset).limit(config.pageSize).exec(function (err, docs) {
       res.json(docs);
-      analytics.track(req, analytics.Type.Show, {page: page, since: since});
+      
     });
   },
   getLastUpdated: function(req, res) {
     Show.find({num_seasons: { $gt: 0 }}).sort({ last_updated: -1 }).limit(config.pageSize).exec(function (err, docs) {
       res.json(docs);
-      analytics.track(req, analytics.Type.Show);
+    
     });
   },
   getLastUpdatedPage: function(req, res) {
@@ -139,7 +139,7 @@ module.exports = {
     var offset = page * config.pageSize;
     Show.find({num_seasons: { $gt: 0 }}).sort({ last_updated: -1 }).skip(offset).limit(config.pageSize).exec(function (err, docs) {
       res.json(docs);
-      analytics.track(req, analytics.Type.Show, {page: page});
+
     });
   },
 }
