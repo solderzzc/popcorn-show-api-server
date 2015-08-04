@@ -23,7 +23,7 @@ if(cluster.isMaster) {
 
     // Is this the master API server? If so scrape
     if(config.master) {
-        var helpers = require('./lib/helpers');
+        var helpers = require('./lib/helpers_eztvapi');
         // Launch the eztv scraper
         try {
             var CronJob = require('cron').CronJob;

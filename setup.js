@@ -12,7 +12,7 @@ RegExp.escape = function(text) {
 };
 
 //mongoose.connect('mongodb://localhost/popcorn_shows', options);
-mongoose.connect('mongodb://fr.ptnet/popcorn_shows', {
+mongoose.connect('mongodb://10.1.10.16/popcorn_shows', {
 	db: { native_parser: true },
 	replset: { 
 		rs_name: 'pt0', 

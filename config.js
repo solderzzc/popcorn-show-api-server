@@ -1,20 +1,11 @@
 module.exports = {
 	master: true,
-	port: 5002,
+	port: 5000,
 	workers: 3,
 	scrapeTime: '60 00 * * * *',
 	pageSize: 50000,
 	dbHosts: [
-		'fr.ptnet',
-		'us-chi.ptnet',
-		'us-mia.ptnet',
-		'us-dal.ptnet',
-		'us-sjc.ptnet',
-		'za.ptnet',
-		'br.ptnet',
-		'sg.ptnet',
-		'uk.ptnet',
-		'ca.ptnet'
+		'10.1.10.16'
 	],
-	analyticsHost: 'fr.ptnet'
+	analyticsHost: '10.1.10.16'
 }
