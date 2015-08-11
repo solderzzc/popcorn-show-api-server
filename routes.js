@@ -17,4 +17,5 @@ module.exports = function(app) {
 	app.get('/shows/last_updated/:page', controllers.shows.getLastUpdatedPage);
 
 	app.get('/movie/:id/rating', controllers.movies.getMovieRating);
+	app.get('/api/v2/list_movies.json', controllers.movies.listMovies);
 }
